@@ -1,0 +1,23 @@
+body{
+    background: lightblue;
+    text-align: center;
+}
+
+img{
+    max-width: 60%;
+    min-width: 300px;
+    height: auto;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+/* .navbar-toggler{
+    margin: 10px;
+} */
+/* .navbar-brand{
+    margin: 10px;
+} */
